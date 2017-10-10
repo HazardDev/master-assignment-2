@@ -22,4 +22,4 @@ list_reverse.o: list_reverse.c list_reverse.h link.h
 
 clean:
 	rm -rf *.dSYM/
-	rm -f *.o test
+	rm -f *.o test test.exe
